@@ -1,0 +1,24 @@
+{
+  "shops": [
+    "Paint Shop",
+    "Press Shop",
+    "Body Shop",
+    "Assembly Shop",
+    "Welding Shop",
+    "Stamping Shop",
+    "Quality",
+    "Logistics",
+    "Maintenance",
+    "Tool Room",
+    "Machine Shop",
+    "Electrical Shop"
+  ],
+  "categories": [
+    "NEEM",
+    "NTTF",
+    "BTECH",
+    "MTECH",
+    "None",
+    "Diploma"
+  ]
+}
